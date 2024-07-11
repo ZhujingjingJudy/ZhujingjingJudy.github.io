@@ -20,10 +20,9 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include machine learning, VR&AR and software development.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Machine Learning
+- VR & AR
 
 #education:
 #  courses:
@@ -44,18 +43,17 @@ bio: My interests include machine learning, VR&AR and software development.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: 'jiz296@ucsd.edu' # For a direct email link, use "mailto:test@example.org".
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/wowchemy
+  # - icon: instagram
+  #   icon_pack: fab
+  #   link: https://github.com/ZhujingjingJudy
 # Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
-
+    - icon: github
+    icon_pack: fab
+    link: https://github.com/ZhujingjingJudy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,7 +64,7 @@ social:
 #email: ""
 ---
 
-Jingjing Zhu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jingjing Zhu is currently a Master student majored in Data Science at UCSD. Her research interests include machine learning, VR & AR technology. She is actively looking for SWE Intern opportunities for 2025 Summer!
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
