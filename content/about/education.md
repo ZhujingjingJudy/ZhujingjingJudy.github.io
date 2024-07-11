@@ -29,8 +29,7 @@ experience:
     location: San Deigo, CA
     date_start: '2024-09-23'
     date_end: '2026-06-01'
-    # description: |2-
-        # * Dissertation on Y
+    description: 
         # * Basketball team
         # * DJ club
 
@@ -41,7 +40,9 @@ experience:
     location: Ann Arbor, MI
     date_start: '2022-08-26'
     date_end: '2024-05-06'
-    description: Relevant Courses: Machine learning
+    description: |2-
+        * Dissertation on VR Educatinal Game Development
+        * Relevant Courses includes Machine learning
 
   - title: B.S.E Electrical and Computer Engineering
     company: Shanghai Jiaotong University
@@ -50,7 +51,7 @@ experience:
     location: Shanghai, China
     date_start: '2020-09-01'
     date_end: '2024-08-09'
-    description: 
+    description: won Undergraduate Awards
 
 design:
   columns: '1'
