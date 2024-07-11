@@ -18,11 +18,11 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include machine learning, VR&AR and software development.
+bio: My interests include machine learning, VR & AR and software development.
 
 interests:
-- Machine Learning
-- VR & AR
+  - Machine Learning
+  - VR & AR
 
 #education:
 #  courses:
@@ -51,9 +51,9 @@ social:
   #   icon_pack: fab
   #   link: https://github.com/ZhujingjingJudy
 # Uncomment below for Github link
-    - icon: github
-    icon_pack: fab
-    link: https://github.com/ZhujingjingJudy
+  - icon: github
+  icon_pack: fab
+  link: https://github.com/ZhujingjingJudy
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
