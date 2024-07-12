@@ -4,6 +4,11 @@ summary: A VR Educational Game developed by Unreal
 tags:
   - XR
 date: 2024-05-01
-external_link: /project/dinosnap/
+links:
+  - name: Project Website
+    url: 'https://eecs498-group6.netlify.app/'
+  - icon: brands/youtube
+    name: Demo Video
+    url: 'https://www.youtube.com/watch?v=uIqLCkeSFTo'
 ---
 
