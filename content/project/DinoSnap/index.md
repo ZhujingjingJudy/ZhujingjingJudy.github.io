@@ -4,7 +4,9 @@ summary: Write about your project here...
 tags:
   - XR
 date: 2024-05-01
-external_link: /project/DinoSnap/
+external_link: /project/dinosnap/
+
+
 - block: buttons
   content:
     buttons:
