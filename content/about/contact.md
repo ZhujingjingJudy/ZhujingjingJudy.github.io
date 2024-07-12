@@ -1,16 +1,16 @@
 ---
 # An instance of the Contact widget.
 # Documentation: https://docs.hugoblox.com/getting-started/page-builder/
-widget: contact
+# widget: contact
 
-# This file represents a page section.
-headless: false
+# # This file represents a page section.
+# headless: false
 
-# Order that this section appears on the page.
-weight: 50
+# # Order that this section appears on the page.
+# weight: 50
 
-title: Get in touch
-subtitle:
+# title: Get in touch
+# subtitle:
 
 # content:
 #   # Automatically link email and phone or display as text?
@@ -24,15 +24,6 @@ subtitle:
 #     netlify:
 #       # Enable CAPTCHA challenge to reduce spam?
 #       captcha: false
-- block: buttons
-    content:
-      buttons:
-        - icon: envelope
-          icon_pack: fas
-          link: "jiz296@ucsd.edu"
-        - title: Connect with me on LinkedIn
-          icon: brands/linkedin
-          url: https://linkedin.com
 # content:
 #   - icon: envelope
 #     icon_pack: fas
@@ -47,6 +38,6 @@ subtitle:
 #     icon_pack: fab
 #     link: https://github.com/ZhujingjingJudy
 
-design:
-  columns: '1'
----
+# design:
+#   columns: '1'
+# ---
