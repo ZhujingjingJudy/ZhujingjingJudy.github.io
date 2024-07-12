@@ -8,7 +8,6 @@ links:
   - name: Project Website
     url: 'https://eecs498-group6.netlify.app/'
   - icon: brands/youtube
-    name: Demo Video
     url: 'https://www.youtube.com/watch?v=uIqLCkeSFTo'
 ---
 
