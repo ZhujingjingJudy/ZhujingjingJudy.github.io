@@ -63,7 +63,7 @@ social:
 #email: ""
 ---
 
-Jingjing Zhu is currently a Master student majored in Data Science at UCSD. Her research interests include machine learning, VR & AR technology. She is actively looking for SWE Intern opportunities for 2025 Summer!
+I am currently a Master student majored in Data Science at UCSD. My research interests include machine learning, VR & AR technology. I am actively looking for SWE Intern opportunities for 2025 Summer!
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

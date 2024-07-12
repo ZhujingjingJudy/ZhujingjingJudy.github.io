@@ -30,10 +30,10 @@ content:
       tag: '*'
     - name: Machine Learning
       tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: VR & AR
+      tag: XR
+    - name: Others
+      tag: Oth
 
 design:
   columns: '1'
