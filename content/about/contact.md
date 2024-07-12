@@ -24,7 +24,7 @@ subtitle:
 #     netlify:
 #       # Enable CAPTCHA challenge to reduce spam?
 #       captcha: false
-social:
+content:
   - icon: envelope
     icon_pack: fas
     link: "jiz296@ucsd.edu" # For a direct email link, use "mailto:test@example.org".

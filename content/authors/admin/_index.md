@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "jiz296@ucsd.edu" # For a direct email link, use "mailto:test@example.org".
+    link: mailto:jiz296@ucsd.edu # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://x.com/jingjingzhu0925
