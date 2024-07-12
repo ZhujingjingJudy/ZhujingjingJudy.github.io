@@ -6,3 +6,5 @@ tags:
 date: 2022-01-01
 external_link: /project/cosmetics/
 ---
+
+{{< youtube w7Ft2ymGmfc >}}

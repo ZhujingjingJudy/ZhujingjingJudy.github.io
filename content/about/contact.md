@@ -12,18 +12,27 @@ weight: 50
 title: Get in touch
 subtitle:
 
-content:
-  # Automatically link email and phone or display as text?
-  autolink: true
+# content:
+#   # Automatically link email and phone or display as text?
+#   autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+#   # Email form provider
+#   form:
+#     provider: netlify
+#     formspree:
+#       id:
+#     netlify:
+#       # Enable CAPTCHA challenge to reduce spam?
+#       captcha: false
+- block: buttons
+    content:
+      buttons:
+        - icon: envelope
+          icon_pack: fas
+          link: "jiz296@ucsd.edu"
+        - title: Connect with me on LinkedIn
+          icon: brands/linkedin
+          url: https://linkedin.com
 # content:
 #   - icon: envelope
 #     icon_pack: fas
