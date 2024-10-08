@@ -26,7 +26,7 @@ experience:
     company: Industrial and Commercial Bank of China (ICBC)
     company_url: 'https://www.icbc.com.cn/ICBC/EN/default.htm'
     company_logo: icbc
-    location: Shanghai
+    # location: Shanghai
     date_start: '2024-06
     date_end: '2024-08'
     # description: |2-
