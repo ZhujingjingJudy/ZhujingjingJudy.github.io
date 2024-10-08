@@ -7,7 +7,7 @@ date: 2024-05-01
 links:
   - name: Project Website
     url: 'https://eecs498-group6.netlify.app/'
-  - icon: brands/youtube
+  - name: Video
     url: 'https://www.youtube.com/watch?v=uIqLCkeSFTo'
 ---
 
