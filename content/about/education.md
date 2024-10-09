@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: M.S. Data Science
     company: University of California, San Deigo
-    company_url: ''
+    company_url: 'https://ucsd.edu/'
     company_logo: ucsd
     location: San Deigo, CA
     date_start: '2024-09-23'
@@ -35,7 +35,7 @@ experience:
 
   - title: B.S.E Computer Science
     company: University of Michigan, Ann Arbor
-    company_url: ''
+    company_url: 'https://umich.edu/'
     company_logo: umich
     location: Ann Arbor, MI
     date_start: '2022-08-26'
@@ -46,7 +46,7 @@ experience:
 
   - title: B.S.E Electrical and Computer Engineering
     company: Shanghai Jiaotong University
-    company_url: ''
+    company_url: 'https://en.sjtu.edu.cn/'
     company_logo: sjtu
     location: Shanghai, China
     date_start: '2020-09-01'
