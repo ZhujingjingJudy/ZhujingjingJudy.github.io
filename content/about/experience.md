@@ -27,8 +27,8 @@ experience:
     company_url: 'https://www.icbc.com.cn/ICBC/EN/default.htm'
     company_logo: icbc
     location: Shanghai, China
-    date_start: '2024-06'
-    date_end: '2024-08'
+    date_start: '2024-06-21'
+    date_end: '2024-08-31'
     description:
 
   - title: Solution Architect Intern
@@ -36,8 +36,8 @@ experience:
     company_url: 'https://www.alibabacloud.com/en?_p_lc=5'
     company_logo: alibaba
     location: Hangzhou, China
-    date_start: '2023-07'
-    date_end: '2023-08'
+    date_start: '2023-07-01'
+    date_end: '2023-08-31'
     # description: Taught electronic engineering and researched semiconductor physics.
 
 design:
