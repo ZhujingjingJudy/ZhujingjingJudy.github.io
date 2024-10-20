@@ -3,7 +3,7 @@ title: NoteX
 summary: Write about your project here...
 tags:
   - Oth
-date: 2022-01-01
+date: 2024-08-01
 links:
   - name: PDF
     url: uploads/NoteX.pdf
