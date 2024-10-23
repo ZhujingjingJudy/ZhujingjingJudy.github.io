@@ -1,6 +1,8 @@
 ---
 title: Gardener Go
-summary: An AR Game inspired by Pokémon GO
+summary: |2-
+        * An AR Educational and Athletic Game inspired by Pokémon GO
+        * Tech: C#, Unity, AR
 tags:
   - XR
 date: 2024-03-01

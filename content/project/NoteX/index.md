@@ -1,6 +1,8 @@
 ---
 title: NoteX
-summary: Write about your project here...
+summary: |2-
+        * Music Transcription Andorid App
+        * Tech: Java, Kotlin, Django, 
 tags:
   - Oth
 date: 2024-08-01

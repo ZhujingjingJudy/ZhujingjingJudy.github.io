@@ -1,6 +1,8 @@
 ---
 title: DinoSnap
-summary: A VR Educational Game developed by Unreal
+summary: |2-
+        * A VR Educational Game developed by Unreal
+        * Tech: C#, Unreal, VR
 tags:
   - XR
 date: 2024-05-01
