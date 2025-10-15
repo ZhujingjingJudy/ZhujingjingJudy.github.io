@@ -63,7 +63,7 @@ social:
 #email: ""
 ---
 
-I am currently a Master student majored in Data Science at UCSD. My research interests include machine learning, VR & AR technology. I am actively looking for SWE Intern opportunities for 2025 Summer!
+I am currently a Master student majored in Data Science at UCSD. My interests include machine learning, cloud computng, VR & AR technology. I am now actively looking for SWE/MLE full-time opportunities for 2026 Summer!
 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

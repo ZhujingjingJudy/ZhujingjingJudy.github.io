@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Development Engineering Intern
+    company: Amazon Web Service
+    company_url: 'https://aws.amazon.com'
+    company_logo: aws
+    location: Seattle, Washington, US
+    date_start: '2025-06-16'
+    date_end: '2025-09-05'
+
   - title: Software Engineering Intern
     company: Industrial and Commercial Bank of China (ICBC)
     company_url: 'https://www.icbc.com.cn/ICBC/EN/default.htm'
